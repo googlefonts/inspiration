@@ -1,7 +1,8 @@
 {
 .appVersion = "1352";
 DisplayStrings = (
-"abcdefghijklm/space nopqrstu/space vw/space xyz"
+"abcdefghijklm/space nopqrstu/space vw/space xyz",
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
 );
 copyright = "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)";
 customParameters = (
@@ -135,8 +136,15 @@ name = calt;
 );
 fontMaster = (
 {
-ascender = 900;
-capHeight = 725;
+alignmentZones = (
+"{680, 15}",
+"{635, 15}",
+"{340, 15}",
+"{0, -15}",
+"{-385, -15}"
+);
+ascender = 635;
+capHeight = 680;
 customParameters = (
 {
 name = typoAscender;
@@ -183,7 +191,7 @@ name = underlineThickness;
 value = 15;
 }
 );
-descender = -400;
+descender = -385;
 guideLines = (
 {
 locked = 1;
@@ -12374,7 +12382,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2021-11-18 16:36:08 +0000";
+lastChange = "2021-11-18 18:33:45 +0000";
 layers = (
 {
 background = {
@@ -12428,6 +12436,11 @@ nodes = (
 }
 );
 };
+guideLines = (
+{
+position = "{44, 0}";
+}
+);
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
 paths = (
 {
@@ -17433,9 +17446,19 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2021-11-18 16:50:59 +0000";
+lastChange = "2021-11-18 18:45:45 +0000";
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{196, 0}";
+},
+{
+name = top;
+position = "{196, 340}";
+}
+);
 background = {
 paths = (
 {
