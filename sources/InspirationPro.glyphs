@@ -34378,16 +34378,7 @@ unicode = E002;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = InspirationProfessional;
-},
-{
-name = postscriptFontName;
-value = InspirationProfessional;
-}
-);
+interpolationWeight = 400;
 instanceInterpolations = {
 "197ECFA8-A16D-41AC-99D0-22A54F6A6421" = 1;
 };
