@@ -220,26 +220,132 @@ xHeight = 340;
 glyphs = (
 {
 glyphname = .notdef;
+lastChange = "2021-11-18 16:21:10 +0000";
 layers = (
 {
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"489 0 LINE",
+"498 8 LINE",
+"498 621 LINE",
+"489 630 LINE",
+"68 630 LINE",
+"60 620 LINE",
+"60 9 LINE",
+"68 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"164 150 LINE",
+"254 316 LINE",
+"164 479 LINE",
+"183 514 LINE",
+"273 350 LINE",
+"364 514 LINE",
+"383 479 LINE",
+"293 314 LINE",
+"383 150 LINE",
+"364 116 LINE",
+"273 279 LINE",
+"183 116 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"77 16 LINE",
+"77 613 LINE",
+"481 613 LINE",
+"481 16 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"112 49 LINE",
+"447 49 LINE",
+"447 577 LINE",
+"112 577 LINE"
+);
+}
+);
+};
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 1000;
+paths = (
+{
+closed = 1;
+nodes = (
+"447 49 LINE",
+"447 577 LINE",
+"112 577 LINE",
+"112 49 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"164 150 LINE",
+"254 316 LINE",
+"164 479 LINE",
+"183 514 LINE",
+"273 350 LINE",
+"364 514 LINE",
+"383 479 LINE",
+"293 314 LINE",
+"383 150 LINE",
+"364 116 LINE",
+"273 279 LINE",
+"183 116 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"489 0 LINE",
+"498 8 LINE",
+"498 621 LINE",
+"489 630 LINE",
+"68 630 LINE",
+"60 620 LINE",
+"60 9 LINE",
+"68 0 LINE"
+);
+},
+{
+closed = 1;
+nodes = (
+"77 16 LINE",
+"77 613 LINE",
+"481 613 LINE",
+"481 16 LINE"
+);
+}
+);
+width = 558;
 }
 );
 note = .notdef;
 },
 {
 glyphname = CR;
+lastChange = "2021-11-18 16:30:44 +0000";
 layers = (
 {
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 229;
+width = 0;
 }
 );
 note = CR;
+unicode = 000D;
 },
 {
 glyphname = NULL;
+lastChange = "2021-11-18 16:30:36 +0000";
 layers = (
 {
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
@@ -247,6 +353,7 @@ width = 0;
 }
 );
 note = NULL;
+unicode = 0000;
 },
 {
 glyphname = space;
@@ -261,12 +368,14 @@ unicode = 0020;
 },
 {
 glyphname = nbspace;
+lastChange = "2021-11-18 16:20:20 +0000";
 layers = (
 {
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
 width = 229;
 }
 );
+widthMetricsKey = space;
 note = nbspace;
 unicode = 00A0;
 },
@@ -34374,6 +34483,15 @@ width = 1537;
 );
 note = inspiration;
 unicode = E002;
+},
+{
+glyphname = LF;
+layers = (
+{
+layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
+width = 600;
+}
+);
 }
 );
 instances = (
