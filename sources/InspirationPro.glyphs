@@ -3,7 +3,9 @@
 DisplayStrings = (
 "Ac\012Ad\012Ae\012Ag\012Ao\012Aq\012As\012At\012Au\012Av\012Aw\012Ay\012Bv\012Bw\012Bx\012By\012Bz\012Ca\012Cc\012Cd\012Ce\012Co\012Cv\012Cw\012Cy\012Ev\012Ew\012Ex\012Ey\012Ez\012Fa\012Fc\012Fd\012Fe\012Ff\012Fg\012Fm\012Fn\012Fo\012Fq\012Fs\012Ft\012Fu\012Fv\012Fw\012Fx\012Fy\012Fz\012Ja\012Jc\012Jd\012Je\012Jg\012Jo\012Jq\012Ka\012Kc\012Kd\012Ke\012Kg\012Ko\012Kq\012Ks\012Kt\012Ku\012Kv\012Kw\012Ky\012Lc\012Ld\012Le\012Lg\012Lf\012Lo\012Lq\012Lt\012Lu\012Lv\012Lw\012Lx\012Pa\012Pc\012Pd\012Pe\012Pg\012Po\012Pq\012Ps\012Pt\012Pu\012Pv\012Pw\012Px\012Py\012Pz\012Qj\012Ra\012Rc\012Rd\012Re\012Rg\012Ro\012Rq\012Rt\012Ru\012Rv\012Rw\012Rx\012Ry\012Sv\012Sw\012Sx\012Sy\012Ta\012Tc\012Td\012Te\012Tg\012Tn\012To\012Tq\012Ts\012Tu\012Tv\012Tw\012Tx\012Ty\012Tz\012Ua\012Uc\012Ud\012Ue\012Ug\012Uo\012Uq\012Uv\012Uw\012Ux\012Uy\012Uz\012Va\012Vc\012Vd\012Ve\012Vg\012Vn\012Vo\012Vp\012Vq\012Vr\012Vs\012Vu\012Vv\012Vw\012Vx\012Vy\012Vz\012Wa\012Wc\012Wd\012We\012Wg\012Wn\012Wo\012Wp\012Wq\012Wr\012Ws\012Wu\012Wv\012Ww\012Wx\012Wy\012Wz\012Xc\012Xd\012Xe\012Xg\012Xo\012Xq\012Xu\012Xv\012Xw\012Xy\012Ya\012Yc\012Yd\012Ye\012Yg\012Yn\012Yo\012Yq\012Ys\012Yt\012Yu\012Yv\012Yw\012Yx\012Yy\012Yz\012Zv\012Zw\012Zy\012",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Nguu/uhorn/ohorntilde ng",
-"HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120172934750747647989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012"
+"HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120172934750747647989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012",
+"0",
+"¹"
 );
 copyright = "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)";
 customParameters = (
@@ -32769,7 +32771,7 @@ unicode = 03C0;
 },
 {
 glyphname = zero;
-lastChange = "2021-11-19 13:42:25 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -32952,12 +32954,14 @@ nodes = (
 width = 507;
 }
 );
+leftKerningGroup = zero;
 note = zero;
+rightKerningGroup = zero;
 unicode = 0030;
 },
 {
 glyphname = one;
-lastChange = "2021-11-19 13:42:57 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -33109,12 +33113,14 @@ nodes = (
 width = 286;
 }
 );
+leftKerningGroup = one;
 note = one;
+rightKerningGroup = one;
 unicode = 0031;
 },
 {
 glyphname = two;
-lastChange = "2021-11-19 13:45:46 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -33313,12 +33319,14 @@ nodes = (
 width = 499;
 }
 );
+leftKerningGroup = two;
 note = two;
+rightKerningGroup = two;
 unicode = 0032;
 },
 {
 glyphname = three;
-lastChange = "2021-11-19 13:45:54 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -33519,12 +33527,14 @@ nodes = (
 width = 493;
 }
 );
+leftKerningGroup = three;
 note = three;
+rightKerningGroup = three;
 unicode = 0033;
 },
 {
 glyphname = four;
-lastChange = "2021-11-19 13:46:21 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -33761,12 +33771,14 @@ nodes = (
 width = 565;
 }
 );
+leftKerningGroup = four;
 note = four;
+rightKerningGroup = four;
 unicode = 0034;
 },
 {
 glyphname = five;
-lastChange = "2021-11-19 13:44:17 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -34011,12 +34023,14 @@ nodes = (
 width = 524;
 }
 );
+leftKerningGroup = five;
 note = five;
+rightKerningGroup = five;
 unicode = 0035;
 },
 {
 glyphname = six;
-lastChange = "2021-11-19 13:46:30 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -34184,12 +34198,14 @@ nodes = (
 width = 433;
 }
 );
+leftKerningGroup = six;
 note = six;
+rightKerningGroup = six;
 unicode = 0036;
 },
 {
 glyphname = seven;
-lastChange = "2021-11-18 16:34:37 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -34310,12 +34326,14 @@ nodes = (
 width = 387;
 }
 );
+leftKerningGroup = seven;
 note = seven;
+rightKerningGroup = seven;
 unicode = 0037;
 },
 {
 glyphname = eight;
-lastChange = "2021-11-19 13:45:23 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -34491,12 +34509,14 @@ nodes = (
 width = 311;
 }
 );
+leftKerningGroup = eight;
 note = eight;
+rightKerningGroup = eight;
 unicode = 0038;
 },
 {
 glyphname = nine;
-lastChange = "2021-11-19 13:45:03 +0000";
+lastChange = "2021-11-19 13:47:28 +0000";
 layers = (
 {
 background = {
@@ -34662,12 +34682,14 @@ nodes = (
 width = 432;
 }
 );
+leftKerningGroup = nine;
 note = nine;
+rightKerningGroup = nine;
 unicode = 0039;
 },
 {
 glyphname = zero.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34683,13 +34705,17 @@ name = zero;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 557;
+width = 507;
 }
 );
+leftKerningGroup = zero;
+leftMetricsKey = zero;
+rightKerningGroup = zero;
+rightMetricsKey = zero;
 },
 {
 glyphname = one.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34705,13 +34731,17 @@ name = one;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 336;
+width = 286;
 }
 );
+leftKerningGroup = one;
+leftMetricsKey = one;
+rightKerningGroup = one;
+rightMetricsKey = one;
 },
 {
 glyphname = two.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34727,13 +34757,17 @@ name = two;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 599;
+width = 499;
 }
 );
+leftKerningGroup = two;
+leftMetricsKey = two;
+rightKerningGroup = two;
+rightMetricsKey = two;
 },
 {
 glyphname = three.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34749,13 +34783,17 @@ name = three;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 603;
+width = 493;
 }
 );
+leftKerningGroup = three;
+leftMetricsKey = three;
+rightKerningGroup = three;
+rightMetricsKey = three;
 },
 {
 glyphname = four.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34774,10 +34812,14 @@ layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
 width = 565;
 }
 );
+leftKerningGroup = four;
+leftMetricsKey = four;
+rightKerningGroup = four;
+rightMetricsKey = four;
 },
 {
 glyphname = five.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34793,13 +34835,17 @@ name = five;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 564;
+width = 524;
 }
 );
+leftKerningGroup = five;
+leftMetricsKey = five;
+rightKerningGroup = five;
+rightMetricsKey = five;
 },
 {
 glyphname = six.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34815,13 +34861,17 @@ name = six;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 503;
+width = 433;
 }
 );
+leftKerningGroup = six;
+leftMetricsKey = six;
+rightKerningGroup = six;
+rightMetricsKey = six;
 },
 {
 glyphname = seven.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34840,10 +34890,14 @@ layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
 width = 387;
 }
 );
+leftKerningGroup = seven;
+leftMetricsKey = seven;
+rightKerningGroup = seven;
+rightMetricsKey = seven;
 },
 {
 glyphname = eight.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34859,13 +34913,17 @@ name = eight;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 391;
+width = 311;
 }
 );
+leftKerningGroup = eight;
+leftMetricsKey = eight;
+rightKerningGroup = eight;
+rightMetricsKey = eight;
 },
 {
 glyphname = nine.lf;
-lastChange = "2021-11-18 16:34:15 +0000";
+lastChange = "2021-11-19 13:48:47 +0000";
 layers = (
 {
 background = {
@@ -34881,9 +34939,13 @@ name = nine;
 }
 );
 layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-width = 502;
+width = 432;
 }
 );
+leftKerningGroup = nine;
+leftMetricsKey = nine;
+rightKerningGroup = nine;
+rightMetricsKey = nine;
 },
 {
 glyphname = onesuperior;
