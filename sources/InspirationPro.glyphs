@@ -4,8 +4,22 @@ DisplayStrings = (
 "Ac\012Ad\012Ae\012Ag\012Ao\012Aq\012As\012At\012Au\012Av\012Aw\012Ay\012Bv\012Bw\012Bx\012By\012Bz\012Ca\012Cc\012Cd\012Ce\012Co\012Cv\012Cw\012Cy\012Ev\012Ew\012Ex\012Ey\012Ez\012Fa\012Fc\012Fd\012Fe\012Ff\012Fg\012Fm\012Fn\012Fo\012Fq\012Fs\012Ft\012Fu\012Fv\012Fw\012Fx\012Fy\012Fz\012Ja\012Jc\012Jd\012Je\012Jg\012Jo\012Jq\012Ka\012Kc\012Kd\012Ke\012Kg\012Ko\012Kq\012Ks\012Kt\012Ku\012Kv\012Kw\012Ky\012Lc\012Ld\012Le\012Lg\012Lf\012Lo\012Lq\012Lt\012Lu\012Lv\012Lw\012Lx\012Pa\012Pc\012Pd\012Pe\012Pg\012Po\012Pq\012Ps\012Pt\012Pu\012Pv\012Pw\012Px\012Py\012Pz\012Qj\012Ra\012Rc\012Rd\012Re\012Rg\012Ro\012Rq\012Rt\012Ru\012Rv\012Rw\012Rx\012Ry\012Sv\012Sw\012Sx\012Sy\012Ta\012Tc\012Td\012Te\012Tg\012Tn\012To\012Tq\012Ts\012Tu\012Tv\012Tw\012Tx\012Ty\012Tz\012Ua\012Uc\012Ud\012Ue\012Ug\012Uo\012Uq\012Uv\012Uw\012Ux\012Uy\012Uz\012Va\012Vc\012Vd\012Ve\012Vg\012Vn\012Vo\012Vp\012Vq\012Vr\012Vs\012Vu\012Vv\012Vw\012Vx\012Vy\012Vz\012Wa\012Wc\012Wd\012We\012Wg\012Wn\012Wo\012Wp\012Wq\012Wr\012Ws\012Wu\012Wv\012Ww\012Wx\012Wy\012Wz\012Xc\012Xd\012Xe\012Xg\012Xo\012Xq\012Xu\012Xv\012Xw\012Xy\012Ya\012Yc\012Yd\012Ye\012Yg\012Yn\012Yo\012Yq\012Ys\012Yt\012Yu\012Yv\012Yw\012Yx\012Yy\012Yz\012Zv\012Zw\012Zy\012",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012abcdefghijklmnopqrstuvwxyz\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Wc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month/space \012Th/uhorn/ohorn ng/space T/ocircumflexacute t/space t/acircumflexacute t/space Nh/acircumflexacute t/space V/ocircumflexgrave ng/space/Dcroat/uhornacute ng/space B/uhornacute t/space/Dcroat/ocircumflexacute c/space k/ydotbelow ./space ng/uhorn/ohorngrave i/space Nguu/uhorn/ohorntilde ng",
 "HH0H1HH2HH3H\012HH4HH5HH6HH\012HH7H8HH9HH/zero.lf \0120/Placeholder 0/space 1/Placeholder 1/space 2/Placeholder 2/space 3/Placeholder 3/space 4/Placeholder 4/space 5/Placeholder 5/space 6/Placeholder 6/space 7/Placeholder 7/space 8/Placeholder 8/space 9/Placeholder 9\0120172934750747647989/nbspace \012/one.lf/two.lf/three.lf/four.lf/five.lf/six.lf/seven.lf/eight.lf/nine.lf \012nn/Placeholder no/Placeholder oo\012",
-"non.non,non:oon;/space nono/ellipsis non!non¡non?non¿o·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (nono){nono}[nonon]-­­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright y«non»y/guilsinglleft non/guilsinglright y/space I'm/space you're/leftanglebracket-math non/rightanglebracket-math \012non@non\012nooo@onno",
-"/numero"
+"non.non,non:oon;/space nono/ellipsis non!non¡non?non¿o·/bullet *#///backslash/periodcentered.loclCAT.case/periodcentered.loclCAT (nono){nono}[nonon]-­­/endash/emdash/hyphentwo _/quotesinglbase/quotedblbase/quotedblleft/quotedblright/quoteleft/quoteright y«non»y/guilsinglleft non/guilsinglright y/space I'm/space you're/leftanglebracket-math non/rightanglebracket-math \012non@non\012nooo@onno"
+);
+classes = (
+{
+automatic = 1;
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde AE AEacute B C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZcaron Eth Dcaron Dcroat Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Eogonek Etilde F G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent H Hbar Hcircumflex I Iacute Ibreve Icaron Icircumflex Idblgrave Idieresis Idotaccent Idotbelow Igrave Ihookabove Iinvertedbreve Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Lj Lslash M N NJ Nacute Ncaron Ncommaaccent Eng Nj Ntilde O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron OE P Thorn Q R Racute Rcaron Rcommaaccent Rdblgrave Rinvertedbreve S Sacute Scaron Scedilla Scircumflex Scommaaccent Germandbls Schwa T Tbar Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucaron Ucircumflex Udblgrave Udieresis Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent";
+name = Uppercase;
+},
+{
+code = "a h m n o s y";
+name = calt00;
+},
+{
+code = "a.ss01 h.ss01 m.ss01 n.ss01 o.ss01 s.ss01 y.ss01";
+name = calt01;
+}
 );
 copyright = "Copyright 2004 The Inspiration Project Authors (https://github.com/googlefonts/inspiration)";
 customParameters = (
@@ -78,17 +92,17 @@ name = Languagesystems;
 features = (
 {
 automatic = 1;
-code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature salt;\012feature ss01;\012feature ss02;\012feature calt;\012";
+code = "feature locl;\012feature sups;\012feature frac;\012feature ordn;\012feature case;\012feature salt;\012feature ss01;\012feature calt;\012feature ss02;\012";
 name = aalt;
 },
 {
 automatic = 1;
-code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb commaaccent dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012} ccmp_Other_1;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
+code = "lookup ccmp_Other_1 {\012	@CombiningTopAccents = [acutecomb brevecomb breveinvertedcomb caroncomb circumflexcomb commaturnedabovecomb dblgravecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];\012	@CombiningNonTopAccents = [brevebelowcomb cedillacomb commaaccent dieresisbelowcomb dotbelowcomb macronbelowcomb ogonekcomb horncomb strokeshortcomb];\012	sub [i j]' @CombiningTopAccents by [idotless jdotless];\012	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];\012	@Markscomb = [dieresiscomb dotaccentcomb gravecomb acutecomb hungarumlautcomb caroncomb.alt circumflexcomb caroncomb brevecomb ringcomb tildecomb macroncomb hookabovecomb dblgravecomb breveinvertedcomb commaturnedabovecomb horncomb brevecomb_acutecomb brevecomb_gravecomb brevecomb_hookabovecomb brevecomb_tildecomb circumflexcomb_acutecomb circumflexcomb_gravecomb circumflexcomb_hookabovecomb circumflexcomb_tildecomb];\012	@MarkscombCase = [dieresiscomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case caroncomb.alt.case circumflexcomb.case caroncomb.case brevecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case dblgravecomb.case breveinvertedcomb.case commaturnedabovecomb.case horncomb.case brevecomb_acutecomb.case brevecomb_gravecomb.case brevecomb_hookabovecomb.case brevecomb_tildecomb.case circumflexcomb_acutecomb.case circumflexcomb_gravecomb.case circumflexcomb_hookabovecomb.case circumflexcomb_tildecomb.case];\012	sub @Markscomb @Markscomb' by @MarkscombCase;\012	sub @Uppercase @Markscomb' by @MarkscombCase;\012} ccmp_Other_1;\012\012lookup ccmp_Other_2 {\012	sub @Markscomb' @MarkscombCase by @MarkscombCase;\012	sub @MarkscombCase @Markscomb' by @MarkscombCase;\012} ccmp_Other_2;\012\012lookup ccmp_latn_1 {\012	lookupflag 0;\012	sub brevecomb acutecomb by brevecomb_acutecomb;\012	sub brevecomb.case acutecomb.case by brevecomb_acutecomb.case;\012	sub brevecomb gravecomb by brevecomb_gravecomb;\012	sub brevecomb.case gravecomb.case by brevecomb_gravecomb.case;\012	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;\012	sub brevecomb.case hookabovecomb.case by brevecomb_hookabovecomb.case;\012	sub brevecomb tildecomb by brevecomb_tildecomb;\012	sub brevecomb.case tildecomb.case by brevecomb_tildecomb.case;\012	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;\012	sub circumflexcomb.case acutecomb.case by circumflexcomb_acutecomb.case;\012	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;\012	sub circumflexcomb.case gravecomb.case by circumflexcomb_gravecomb.case;\012	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;\012	sub circumflexcomb.case hookabovecomb.case by circumflexcomb_hookabovecomb.case;\012	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;\012	sub circumflexcomb.case tildecomb.case by circumflexcomb_tildecomb.case;\012} ccmp_latn_1;\012\012script latn;\012lookup ccmp_latn_1;\012";
 name = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT;\012} locl_latn_2;\012";
+code = "lookup locl_latn_0 {\012	script latn;\012	language AZE;\012	sub i by idotaccent;\012	language CRT;\012	sub i by idotaccent;\012	language KAZ;\012	sub i by idotaccent;\012	language TAT;\012	sub i by idotaccent;\012	language TRK;\012	sub i by idotaccent;\012} locl_latn_0;\012\012lookup locl_latn_1 {\012	script latn;\012	language ROM;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012	language MOL;\012	sub Scedilla by Scommaaccent;\012	sub scedilla by scommaaccent;\012	sub Tcedilla by Tcommaaccent;\012	sub tcedilla by tcommaaccent;\012} locl_latn_1;\012\012lookup locl_latn_2 {\012	script latn;\012	language CAT;\012	sub l periodcentered' l by periodcentered.loclCAT;\012	sub L periodcentered' L by periodcentered.loclCAT.case;\012} locl_latn_2;\012";
 name = locl;
 },
 {
@@ -108,6 +122,11 @@ name = ordn;
 },
 {
 automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;\012sub dieresiscomb by dieresiscomb.case;\012sub dotaccentcomb by dotaccentcomb.case;\012sub gravecomb by gravecomb.case;\012sub acutecomb by acutecomb.case;\012sub hungarumlautcomb by hungarumlautcomb.case;\012sub caroncomb.alt by caroncomb.alt.case;\012sub circumflexcomb by circumflexcomb.case;\012sub caroncomb by caroncomb.case;\012sub brevecomb by brevecomb.case;\012sub ringcomb by ringcomb.case;\012sub tildecomb by tildecomb.case;\012sub macroncomb by macroncomb.case;\012sub hookabovecomb by hookabovecomb.case;\012sub dblgravecomb by dblgravecomb.case;\012sub breveinvertedcomb by breveinvertedcomb.case;\012sub commaturnedabovecomb by commaturnedabovecomb.case;\012sub horncomb by horncomb.case;\012sub brevecomb_acutecomb by brevecomb_acutecomb.case;\012sub brevecomb_gravecomb by brevecomb_gravecomb.case;\012sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;\012sub brevecomb_tildecomb by brevecomb_tildecomb.case;\012sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;\012sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;\012sub circumflexcomb_hookabovecomb by circumflexcomb_hookabovecomb.case;\012sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;\012";
+name = case;
+},
+{
+automatic = 1;
 code = "lookupflag IgnoreMarks;\012sub c k by c_k;\012sub c t by c_t;\012sub e e by e_e;\012sub f t by f_t;\012sub k r by k_r;\012sub l l by l_l;\012sub l t by l_t;\012sub l y by l_y;\012sub p s by p_s;\012sub q u by q_u;\012sub r m by r_m;\012sub s s by s_s;\012sub t h by t_h;\012sub t t by t_t;\012sub t w by t_w;\012sub v i by v_i;\012sub v v by v_v;\012";
 name = dlig;
 },
@@ -118,22 +137,22 @@ name = liga;
 },
 {
 automatic = 1;
-code = "sub a by a.ss01;\012sub l by l.ss01;\012sub s by s.ss01;\012";
+code = "sub a by a.ss01;\012sub h by h.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub s by s.ss01;\012sub y by y.ss01;\012";
 name = salt;
 },
 {
 automatic = 1;
-code = "sub a by a.ss01;\012sub l by l.ss01;\012sub s by s.ss01;\012";
+code = "sub a by a.ss01;\012sub h by h.ss01;\012sub l by l.ss01;\012sub m by m.ss01;\012sub n by n.ss01;\012sub o by o.ss01;\012sub s by s.ss01;\012sub y by y.ss01;\012";
 name = ss01;
 },
 {
-automatic = 1;
-code = "sub l by l.ss02;\012";
-name = ss02;
+code = "\012# BEGIN PSEUDORANDOM\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00 @calt00 @calt00  by @calt00;\012sub @calt00' @calt00 @calt00 @calt00  by @calt01;\012sub @calt00' @calt00 @calt00  by @calt00;\012sub @calt00' @calt00  by @calt01;\012\012# END PSEUDORANDOM\012";
+name = calt;
 },
 {
-code = "sub a by a.calt;\012sub h by h.calt;\012sub m by m.calt;\012sub n by n.calt;\012sub o by o.calt;\012sub s by s.calt;\012sub y by y.calt;\012";
-name = calt;
+automatic = 1;
+code = "sub a by a.ss02;\012sub l by l.ss02;\012sub s by s.ss02;\012";
+name = ss02;
 }
 );
 fontMaster = (
@@ -24524,8 +24543,8 @@ width = 268;
 unicode = 017C;
 },
 {
-glyphname = a.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = a.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -24720,8 +24739,8 @@ width = 248;
 note = a.alt;
 },
 {
-glyphname = h.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = h.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -24990,8 +25009,113 @@ width = 234;
 note = h.alt;
 },
 {
-glyphname = m.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = l.ss01;
+lastChange = "2021-11-19 14:09:03 +0000";
+layers = (
+{
+background = {
+paths = (
+{
+closed = 1;
+nodes = (
+"228 638 OFFCURVE",
+"221 642 OFFCURVE",
+"214 644 CURVE SMOOTH",
+"190 651 OFFCURVE",
+"158 635 OFFCURVE",
+"127 601 CURVE SMOOTH",
+"2 463 OFFCURVE",
+"13 7 OFFCURVE",
+"137 -137 CURVE SMOOTH",
+"146 -148 OFFCURVE",
+"157 -156 OFFCURVE",
+"172 -158 CURVE SMOOTH",
+"187 -160 OFFCURVE",
+"174 -147 OFFCURVE",
+"163 -138 CURVE SMOOTH",
+"123 -103 OFFCURVE",
+"95 38 OFFCURVE",
+"88 88 CURVE SMOOTH",
+"68 223 OFFCURVE",
+"48 453 OFFCURVE",
+"136 582 CURVE SMOOTH",
+"162 619 OFFCURVE",
+"183 629 OFFCURVE",
+"197 614 CURVE SMOOTH",
+"200 610 OFFCURVE",
+"206 603 OFFCURVE",
+"213 599 CURVE SMOOTH",
+"237 586 OFFCURVE",
+"244 619 OFFCURVE",
+"233 632 CURVE SMOOTH"
+);
+}
+);
+};
+layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
+paths = (
+{
+closed = 1;
+nodes = (
+"185 -158 OFFCURVE",
+"173 -146 OFFCURVE",
+"163 -138 CURVE SMOOTH",
+"123 -103 OFFCURVE",
+"95 38 OFFCURVE",
+"88 88 CURVE SMOOTH",
+"79 146 OFFCURVE",
+"71 222 OFFCURVE",
+"71 299 CURVE SMOOTH",
+"71 402 OFFCURVE",
+"86 509 OFFCURVE",
+"136 582 CURVE SMOOTH",
+"154 608 OFFCURVE",
+"170 621 OFFCURVE",
+"183 621 CURVE SMOOTH",
+"188 621 OFFCURVE",
+"193 618 OFFCURVE",
+"197 614 CURVE SMOOTH",
+"200 610 OFFCURVE",
+"206 603 OFFCURVE",
+"213 599 CURVE SMOOTH",
+"217 597 OFFCURVE",
+"220 596 OFFCURVE",
+"223 596 CURVE SMOOTH",
+"233 596 OFFCURVE",
+"238 606 OFFCURVE",
+"238 616 CURVE SMOOTH",
+"238 622 OFFCURVE",
+"236 628 OFFCURVE",
+"233 632 CURVE SMOOTH",
+"228 638 OFFCURVE",
+"221 642 OFFCURVE",
+"214 644 CURVE SMOOTH",
+"210 645 OFFCURVE",
+"206 646 OFFCURVE",
+"202 646 CURVE SMOOTH",
+"180 646 OFFCURVE",
+"153 630 OFFCURVE",
+"127 601 CURVE SMOOTH",
+"67 535 OFFCURVE",
+"38 396 OFFCURVE",
+"38 253 CURVE SMOOTH",
+"38 98 OFFCURVE",
+"72 -62 OFFCURVE",
+"137 -137 CURVE SMOOTH",
+"147 -149 OFFCURVE",
+"158 -158 OFFCURVE",
+"175 -158 CURVE SMOOTH"
+);
+}
+);
+width = 168;
+}
+);
+note = l.001;
+},
+{
+glyphname = m.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -25214,8 +25338,8 @@ width = 419;
 note = m.alt;
 },
 {
-glyphname = n.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = n.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -25364,8 +25488,8 @@ width = 323;
 note = n.alt;
 },
 {
-glyphname = o.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = o.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -25533,8 +25657,8 @@ width = 321;
 note = o.alt;
 },
 {
-glyphname = s.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = s.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -25720,8 +25844,8 @@ width = 243;
 note = s.alt;
 },
 {
-glyphname = y.calt;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = y.ss01;
+lastChange = "2021-11-19 14:04:57 +0000";
 layers = (
 {
 background = {
@@ -25921,8 +26045,8 @@ width = 342;
 note = y.alt;
 },
 {
-glyphname = a.ss01;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = a.ss02;
+lastChange = "2021-11-19 14:09:09 +0000";
 layers = (
 {
 background = {
@@ -26071,8 +26195,8 @@ width = 263;
 note = a.alt2;
 },
 {
-glyphname = l.ss01;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = l.ss02;
+lastChange = "2021-11-19 14:09:20 +0000";
 layers = (
 {
 background = {
@@ -26080,36 +26204,36 @@ paths = (
 {
 closed = 1;
 nodes = (
-"228 638 OFFCURVE",
-"221 642 OFFCURVE",
-"214 644 CURVE SMOOTH",
-"190 651 OFFCURVE",
-"158 635 OFFCURVE",
-"127 601 CURVE SMOOTH",
-"2 463 OFFCURVE",
-"13 7 OFFCURVE",
-"137 -137 CURVE SMOOTH",
-"146 -148 OFFCURVE",
-"157 -156 OFFCURVE",
-"172 -158 CURVE SMOOTH",
-"187 -160 OFFCURVE",
-"174 -147 OFFCURVE",
-"163 -138 CURVE SMOOTH",
-"123 -103 OFFCURVE",
-"95 38 OFFCURVE",
-"88 88 CURVE SMOOTH",
-"68 223 OFFCURVE",
-"48 453 OFFCURVE",
-"136 582 CURVE SMOOTH",
-"162 619 OFFCURVE",
-"183 629 OFFCURVE",
-"197 614 CURVE SMOOTH",
-"200 610 OFFCURVE",
-"206 603 OFFCURVE",
-"213 599 CURVE SMOOTH",
-"237 586 OFFCURVE",
-"244 619 OFFCURVE",
-"233 632 CURVE SMOOTH"
+"335 714 OFFCURVE",
+"329 720 OFFCURVE",
+"323 724 CURVE SMOOTH",
+"301 737 OFFCURVE",
+"266 730 OFFCURVE",
+"228 705 CURVE SMOOTH",
+"71 604 OFFCURVE",
+"-36 160 OFFCURVE",
+"47 -11 CURVE",
+"52 -24 OFFCURVE",
+"61 -34 OFFCURVE",
+"75 -40 CURVE SMOOTH",
+"89 -46 OFFCURVE",
+"80 -30 OFFCURVE",
+"71 -18 CURVE SMOOTH",
+"42 26 OFFCURVE",
+"51 169 OFFCURVE",
+"57 219 CURVE SMOOTH",
+"73 355 OFFCURVE",
+"113 582 OFFCURVE",
+"231 684 CURVE SMOOTH",
+"266 713 OFFCURVE",
+"289 717 OFFCURVE",
+"298 699 CURVE SMOOTH",
+"300 695 OFFCURVE",
+"304 686 OFFCURVE",
+"310 681 CURVE SMOOTH",
+"330 662 OFFCURVE",
+"345 692 OFFCURVE",
+"338 707 CURVE SMOOTH"
 );
 }
 );
@@ -26119,65 +26243,65 @@ paths = (
 {
 closed = 1;
 nodes = (
-"185 -158 OFFCURVE",
-"173 -146 OFFCURVE",
-"163 -138 CURVE SMOOTH",
-"123 -103 OFFCURVE",
-"95 38 OFFCURVE",
-"88 88 CURVE SMOOTH",
-"79 146 OFFCURVE",
-"71 222 OFFCURVE",
-"71 299 CURVE SMOOTH",
-"71 402 OFFCURVE",
-"86 509 OFFCURVE",
-"136 582 CURVE SMOOTH",
-"154 608 OFFCURVE",
-"170 621 OFFCURVE",
-"183 621 CURVE SMOOTH",
-"188 621 OFFCURVE",
-"193 618 OFFCURVE",
-"197 614 CURVE SMOOTH",
-"200 610 OFFCURVE",
-"206 603 OFFCURVE",
-"213 599 CURVE SMOOTH",
-"217 597 OFFCURVE",
-"220 596 OFFCURVE",
-"223 596 CURVE SMOOTH",
-"233 596 OFFCURVE",
-"238 606 OFFCURVE",
-"238 616 CURVE SMOOTH",
-"238 622 OFFCURVE",
-"236 628 OFFCURVE",
-"233 632 CURVE SMOOTH",
-"228 638 OFFCURVE",
-"221 642 OFFCURVE",
-"214 644 CURVE SMOOTH",
-"210 645 OFFCURVE",
-"206 646 OFFCURVE",
-"202 646 CURVE SMOOTH",
-"180 646 OFFCURVE",
-"153 630 OFFCURVE",
-"127 601 CURVE SMOOTH",
-"67 535 OFFCURVE",
-"38 396 OFFCURVE",
-"38 253 CURVE SMOOTH",
-"38 98 OFFCURVE",
-"72 -62 OFFCURVE",
-"137 -137 CURVE SMOOTH",
-"147 -149 OFFCURVE",
-"158 -158 OFFCURVE",
-"175 -158 CURVE SMOOTH"
+"89 -46 OFFCURVE",
+"80 -30 OFFCURVE",
+"71 -18 CURVE SMOOTH",
+"55 6 OFFCURVE",
+"51 58 OFFCURVE",
+"51 109 CURVE SMOOTH",
+"51 153 OFFCURVE",
+"54 196 OFFCURVE",
+"57 219 CURVE SMOOTH",
+"73 355 OFFCURVE",
+"113 582 OFFCURVE",
+"231 684 CURVE SMOOTH",
+"252 701 OFFCURVE",
+"269 710 OFFCURVE",
+"281 710 CURVE SMOOTH",
+"289 710 OFFCURVE",
+"294 706 OFFCURVE",
+"298 699 CURVE SMOOTH",
+"300 695 OFFCURVE",
+"304 686 OFFCURVE",
+"310 681 CURVE SMOOTH",
+"315 677 OFFCURVE",
+"319 675 OFFCURVE",
+"323 675 CURVE SMOOTH",
+"333 675 OFFCURVE",
+"340 687 OFFCURVE",
+"340 698 CURVE SMOOTH",
+"340 701 OFFCURVE",
+"339 704 OFFCURVE",
+"338 707 CURVE SMOOTH",
+"335 714 OFFCURVE",
+"329 720 OFFCURVE",
+"323 724 CURVE SMOOTH",
+"316 728 OFFCURVE",
+"307 730 OFFCURVE",
+"297 730 CURVE SMOOTH",
+"278 730 OFFCURVE",
+"253 722 OFFCURVE",
+"228 705 CURVE SMOOTH",
+"109 628 OFFCURVE",
+"18 353 OFFCURVE",
+"18 150 CURVE SMOOTH",
+"18 87 OFFCURVE",
+"27 30 OFFCURVE",
+"47 -11 CURVE SMOOTH",
+"52 -24 OFFCURVE",
+"61 -34 OFFCURVE",
+"75 -40 CURVE SMOOTH"
 );
 }
 );
 width = 168;
 }
 );
-note = l.001;
+note = l.002;
 },
 {
-glyphname = s.ss01;
-lastChange = "2021-11-18 16:34:37 +0000";
+glyphname = s.ss02;
+lastChange = "2021-11-19 14:09:31 +0000";
 layers = (
 {
 background = {
@@ -26328,111 +26452,6 @@ width = 225;
 }
 );
 note = s.alt1;
-},
-{
-glyphname = l.ss02;
-lastChange = "2021-11-18 16:34:37 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"335 714 OFFCURVE",
-"329 720 OFFCURVE",
-"323 724 CURVE SMOOTH",
-"301 737 OFFCURVE",
-"266 730 OFFCURVE",
-"228 705 CURVE SMOOTH",
-"71 604 OFFCURVE",
-"-36 160 OFFCURVE",
-"47 -11 CURVE",
-"52 -24 OFFCURVE",
-"61 -34 OFFCURVE",
-"75 -40 CURVE SMOOTH",
-"89 -46 OFFCURVE",
-"80 -30 OFFCURVE",
-"71 -18 CURVE SMOOTH",
-"42 26 OFFCURVE",
-"51 169 OFFCURVE",
-"57 219 CURVE SMOOTH",
-"73 355 OFFCURVE",
-"113 582 OFFCURVE",
-"231 684 CURVE SMOOTH",
-"266 713 OFFCURVE",
-"289 717 OFFCURVE",
-"298 699 CURVE SMOOTH",
-"300 695 OFFCURVE",
-"304 686 OFFCURVE",
-"310 681 CURVE SMOOTH",
-"330 662 OFFCURVE",
-"345 692 OFFCURVE",
-"338 707 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-paths = (
-{
-closed = 1;
-nodes = (
-"89 -46 OFFCURVE",
-"80 -30 OFFCURVE",
-"71 -18 CURVE SMOOTH",
-"55 6 OFFCURVE",
-"51 58 OFFCURVE",
-"51 109 CURVE SMOOTH",
-"51 153 OFFCURVE",
-"54 196 OFFCURVE",
-"57 219 CURVE SMOOTH",
-"73 355 OFFCURVE",
-"113 582 OFFCURVE",
-"231 684 CURVE SMOOTH",
-"252 701 OFFCURVE",
-"269 710 OFFCURVE",
-"281 710 CURVE SMOOTH",
-"289 710 OFFCURVE",
-"294 706 OFFCURVE",
-"298 699 CURVE SMOOTH",
-"300 695 OFFCURVE",
-"304 686 OFFCURVE",
-"310 681 CURVE SMOOTH",
-"315 677 OFFCURVE",
-"319 675 OFFCURVE",
-"323 675 CURVE SMOOTH",
-"333 675 OFFCURVE",
-"340 687 OFFCURVE",
-"340 698 CURVE SMOOTH",
-"340 701 OFFCURVE",
-"339 704 OFFCURVE",
-"338 707 CURVE SMOOTH",
-"335 714 OFFCURVE",
-"329 720 OFFCURVE",
-"323 724 CURVE SMOOTH",
-"316 728 OFFCURVE",
-"307 730 OFFCURVE",
-"297 730 CURVE SMOOTH",
-"278 730 OFFCURVE",
-"253 722 OFFCURVE",
-"228 705 CURVE SMOOTH",
-"109 628 OFFCURVE",
-"18 353 OFFCURVE",
-"18 150 CURVE SMOOTH",
-"18 87 OFFCURVE",
-"27 30 OFFCURVE",
-"47 -11 CURVE SMOOTH",
-"52 -24 OFFCURVE",
-"61 -34 OFFCURVE",
-"75 -40 CURVE SMOOTH"
-);
-}
-);
-width = 168;
-}
-);
-note = l.002;
 },
 {
 glyphname = c_k;
@@ -38416,64 +38435,6 @@ width = 298;
 );
 note = hyphen;
 unicode = 002D;
-},
-{
-glyphname = uni00AD;
-lastChange = "2021-11-18 16:34:37 +0000";
-layers = (
-{
-background = {
-paths = (
-{
-closed = 1;
-nodes = (
-"252 196 OFFCURVE",
-"184 205 OFFCURVE",
-"82 192 CURVE SMOOTH",
-"75 191 OFFCURVE",
-"95 166 OFFCURVE",
-"101 167 CURVE SMOOTH",
-"164 174 OFFCURVE",
-"234 178 OFFCURVE",
-"282 178 CURVE SMOOTH",
-"288 178 OFFCURVE",
-"291 185 OFFCURVE",
-"285 187 CURVE SMOOTH"
-);
-}
-);
-};
-layerId = "197ECFA8-A16D-41AC-99D0-22A54F6A6421";
-paths = (
-{
-closed = 1;
-nodes = (
-"164 174 OFFCURVE",
-"234 178 OFFCURVE",
-"282 178 CURVE SMOOTH",
-"286 178 OFFCURVE",
-"288 181 OFFCURVE",
-"288 183 CURVE SMOOTH",
-"288 185 OFFCURVE",
-"287 186 OFFCURVE",
-"285 187 CURVE",
-"264 193 OFFCURVE",
-"228 199 OFFCURVE",
-"179 199 CURVE SMOOTH",
-"151 199 OFFCURVE",
-"119 197 OFFCURVE",
-"82 192 CURVE SMOOTH",
-"75 191 OFFCURVE",
-"95 166 OFFCURVE",
-"101 167 CURVE SMOOTH"
-);
-}
-);
-width = 298;
-}
-);
-note = uni00AD;
-unicode = 00AD;
 },
 {
 glyphname = softhyphen;
